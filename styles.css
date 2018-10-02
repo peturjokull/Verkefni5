@@ -31,10 +31,8 @@ h2 {
 
 .card {
     display: flex;
-    max-width: 470px;
-    /* 470px */
-    max-height: 300px;
-    /* 300px */
+max-width:29.375rem;
+max-height: 18.75rem;
     background-color: #fff;
     border: 2px #aaa solid;
     border-radius: 5px;
